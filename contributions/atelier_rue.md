@@ -18,11 +18,11 @@ Une photo de [Alectrevelyan006](http://commons.wikimedia.org/wiki/File:People_en
 ## A quoi ça sert ?
 
 * pour les organisateurs: recueillir des témoignages afin d'enrichir une réflexion citoyenne.
-* pour les participants: se questionner et s'exprimer librement sur un sujet (auquel ils ne sont pas forcément sensibilisé), rencontrer de nouvelles personnes dans son quartier.
+* pour les participants: se questionner et s'exprimer librement sur un sujet auquel ils ne sont pas forcément sensibilisés, et rencontrer de nouvelles personnes dans son quartier.
 
 ## Présentation 
 
-L'équipe de l'atelier de rue va à la rencontre des gens et les invite à discuter autour du thème du jour (inscrit en grand). Les notes prises durant la discussion sont ensuite synthétisées en une phrase avec la personne interrogée et accrochées sous la grande question afin qu'elles soient ainsi visibles par tous et puissent faire émerger et enrichir la réflexion de chacun. 
+L'équipe de l'atelier de rue va à la rencontre des gens et les invite à discuter autour du thème du jour (inscrit en grand). Les notes prises durant la discussion sont synthétisées en une phrase avec la personne interrogée. Elles sont ensuite accrochées sous la grande question afin qu'elles soient visibles par tous pour faire émerger et enrichir la réflexion de chacun. 
 
 ## Procédure 
 
@@ -47,9 +47,9 @@ L'équipe de l'atelier de rue va à la rencontre des gens et les invite à discu
 
 ### DÉROULEMENT
 
-Le tout est de réussir à capter les passants, à ce qu'il comprennent tout de suite qui l'on est et ce qu'on leur demande. Selon les endroits ils sont plus ou moins méfiants ou curieux, il faut donc adapter notre tactique de contact en fonction de l'environnement choisi.
-Une fois le but de notre intervention clarifié, nous pouvons commencer la discussion autour du thème proposé avec à l'appui des questions plus précises visant à "faire parler" ou engager la discussion.
-Il est ensuite proposé à la personne de résumer ses idées en une phrase, avec ses propres mot. Elle est ensuite retranscrite sur une grande feuille de couleur et accrochée avec les autres témoignages.
+L'objectif est de réussir à capter les passants, de manière à ce qu'ils comprennent tout de suite qui l'on est et ce qu'on leur demande. Selon les endroits ils sont plus ou moins méfiants ou curieux. L'approche ou tactique de contact est à adapter en fonction de l'environnement choisi.
+Lorsque le but de notre intervention est clarifié, nous pouvons commencer la discussion autour du thème proposé avec à l'appui des questions plus précises visant à "faire parler" ou engager la discussion.
+Il est ensuite proposé à la personne de résumer ses idées en une phrase, avec ses propres mots. Elle est ensuite retranscrite sur une grande feuille de couleur et accrochée avec les autres témoignages.
 
 ![Discussion Rue](http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Occupy_Wall_Street_Group_Discussion_2011_Shankbone.JPG/640px-Occupy_Wall_Street_Group_Discussion_2011_Shankbone.JPG)
 
@@ -59,10 +59,10 @@ Il est ensuite proposé à la personne de résumer ses idées en une phrase, ave
 ### Avantages 
 * discussion directe et sans intermédiaire.
 * les idées des personnes sont retranscrites sans interprétation.
-* au plus il y a de témoignages accrochés, au plus les personnes sont curieuses.
+* plus il y a de témoignages accrochés, plus les personnes sont curieuses.
 
 ### Limites 
-* la neutralité : difficulté de ne pas influencer les réponses des gens par notre façon de parler.
+* la neutralité : difficulté à ne pas influencer les réponses des personnes par notre façon de parler.
 * difficultés : trouver la meilleure première approche.
 
 ## Aller plus loin
