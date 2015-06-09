@@ -17,7 +17,7 @@ En anglais nommée « Creative Problem Solving », cette démarche est originale
 
 ## Procédure 
 
-Les étapes du CPS sont au nombre de 6. Chacune d’entre elle peut être couplée à des structures participatives et outils spécifiques, rendant la démarche du CPS profondément innovante, créative et conviviale. Vous trouverez sur cette boîte à outils de nombreuses ressources qui vont permettront de monter une Résolution Créative de Problèmes sur-mesure. 
+Les étapes du CPS sont au nombre de 6. Chacune d’entre elle peut être couplée à des structures participatives et outils spécifiques, rendant la démarche du CPS profondément innovante, créative et conviviale. Vous trouverez sur cette boîte à outils de nombreuses ressources qui vous permettront de monter une Résolution Créative de Problèmes sur-mesure. 
 **Explorer le challenge**
 * Etape 1 : identifier le but, le souhait ou le challenge
 * Etape 2 : regrouper les informations nécessaires
@@ -38,7 +38,7 @@ Etape 5 : sélectionner, renforcer, qualifier les solutions
 * Est et a été très expérimenté. 
 
 ### Limites 
-* Comme toute méthode/approche, n'est pas adapté à toutes les situations et tous les groupes
+* Comme toute méthode/approche, elle n'est pas adaptée à toutes les situations et tous les groupes
 
 ## Sources:
 * Thomas Wolff, association Centre des pratiques de la coopération, sous licence Creative Commons BY-SA
