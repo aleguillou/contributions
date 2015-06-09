@@ -13,7 +13,7 @@ Elle est utilisée un peu différemment dans le cadre de l'analyse de pratique p
 
 ## Procédure
 
-Pour assurer le succès d’une telle démarche, il est important de s'approprie la méthode et de suivre les règles qui en découlent.
+Pour assurer le succès d’une telle démarche, il est important de s'approprier la méthode et de suivre les règles qui en découlent.
 
 Trois rôles devraient être assurés :
 
